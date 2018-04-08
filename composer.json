@@ -22,6 +22,5 @@
         "psr-4": {
             "Alkalab\\MagicTranslate\\": "src/Alkalab/MagicTranslate/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
