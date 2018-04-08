@@ -1,0 +1,27 @@
+{
+    "name": "alkalab/magic-translation",
+    "description": "Automatically translate your Laravel localization files to any language using Google Translate through an Artisan command.",
+    "type": "project",
+    "keywords": ["google", "translate", "php", "automatic", "laravel"],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "^5.5.0",
+        "p3k/emoji-detector": "^0.2.1",
+        "stichoza/google-translate-php": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "2Fwebd",
+            "email": "help@2f-design.fr"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Alkalab\\MagicTranslate\\": "src/"
+        },
+        "psr-4": {
+            "Alkalab\\MagicTranslate\\": "src/Alkalab/MagicTranslate/"
+        }
+    },
+    "minimum-stability": "dev"
+}
