@@ -1,7 +1,6 @@
 {
     "name": "alkalab/magic-translation",
     "description": "Automatically translate your Laravel localization files to any language using Google Translate through an Artisan command.",
-    "type": "project",
     "keywords": ["google", "translate", "php", "automatic", "laravel"],
     "license": "MIT",
     "require": {
