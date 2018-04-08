@@ -4,7 +4,7 @@
     "keywords": ["google", "translate", "php", "automatic", "laravel"],
     "license": "MIT",
     "require": {
-        "laravel/framework": "^5.5.0",
+        "laravel/framework": "5.5.*",
         "p3k/emoji-detector": "^0.2.1",
         "stichoza/google-translate-php": "^3.2"
     },
