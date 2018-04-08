@@ -238,7 +238,7 @@ class Translate extends Command
 			static $id = 0;
 			$id++;
 
-			$saved['Variable'. $id] = $match;
+			$saved['Variable'. $id] = $match[0];
 
 			return 'Variable'. $id;
 
