@@ -21,5 +21,12 @@
         "psr-4": {
             "Alkalab\\MagicTranslate\\": "src/Alkalab/MagicTranslate/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alkalab\\MagicTranslate\\ServiceProvider"
+            ]
+        }
     }
 }

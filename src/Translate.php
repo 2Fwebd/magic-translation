@@ -13,7 +13,7 @@ class Translate extends Command
 	 *
 	 * @var string
 	 */
-	protected $signature = 'translate {file} {target} {--no-validation}';
+	protected $signature = 'magic:translate {file} {target} {--no-validation}';
 
 	/**
 	 * The console command description.

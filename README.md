@@ -18,7 +18,7 @@ As any Laravel package, simply
 
 Simple, once installed the Artisan command is: 
 
-``php artisan translate {file} {target} {--no-validation}``
+``php artisan magic:translate {file} {target} {--no-validation}``
 
 * **{file}**: the file that needs to be translated inside your ``resources/assets/lang/en/``, without the .php extension. 
   *Example: "validation" to translate resources/assets/lang/en/validation.php*
@@ -29,7 +29,7 @@ Simple, once installed the Artisan command is:
   
 Example: 
 
-``php artisan translate validation fr --no-validation``
+``php artisan magic:translate validation fr --no-validation``
 
 
 ## Important notes
