@@ -8,6 +8,8 @@
         "p3k/emoji-detector": "^0.2.1",
         "stichoza/google-translate-php": "^3.2"
     },
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/2Fwebd/magic-translation",
     "authors": [
         {
             "name": "2Fwebd",
