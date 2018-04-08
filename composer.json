@@ -23,5 +23,5 @@
             "Alkalab\\MagicTranslate\\": "src/Alkalab/MagicTranslate/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
